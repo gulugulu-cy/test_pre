@@ -1,0 +1,55 @@
+{
+  "but_make": "开始生成",
+  "cancel": "取消",
+  "characterType": {
+    "children": "儿童",
+    "man": "男性",
+    "tips": "人物类型",
+    "woman": "女性"
+  },
+  "click_image": "并确保只有一个人脸",
+  "continue": "确定",
+  "custom_content": {
+    "tips": "自定义风格描述为空，请重新输入自定义描述"
+  },
+  "delete_data_tips": "删除图片",
+  "delete_error": "删除失败",
+  "delete_success": "删除成功",
+  "delete_text": "删除图片",
+  "drag_image": "请上传一张自拍照",
+  "empty_text": "无生成记录",
+  "face_image_tips": "请上传照片",
+  "generate": {
+    "error": "生成失败",
+    "loading": "生成中...",
+    "success": "照片生成完成"
+  },
+  "image_download_error": "下载图片失败",
+  "isUploadLoading": "上传中",
+  "presetStyle": {
+    "clay": "粘土",
+    "clown": "小丑",
+    "comic_style": "漫画风",
+    "custom": "自定义",
+    "cyberpunk": "赛博朋克",
+    "elf": "精灵",
+    "impressionism": "印象主义",
+    "line_art_style": "线条艺术风",
+    "low_poly_style": "低聚风",
+    "robot": "机器人",
+    "vampire": "吸血鬼",
+    "watercolor": "水彩",
+    "zombie": "僵尸"
+  },
+  "size": "尺寸",
+  "styleDialog": {
+    "choose_style": "选择风格",
+    "custom_input_placeholder": "请输入内容...",
+    "submit": "确认",
+    "tab_custom": "自定义",
+    "tab_custom_tips": "自定义风格描述",
+    "tab_preset": "预设"
+  },
+  "title": "AI 头像制作",
+  "upload_error": "图片上传失败"
+}

@@ -1,0 +1,55 @@
+{
+  "but_make": "Start generating",
+  "cancel": "Cancel",
+  "characterType": {
+    "children": "Children",
+    "man": "Man",
+    "tips": "character type",
+    "woman": "Woman"
+  },
+  "click_image": "and make sure there is only one face",
+  "continue": "Sure",
+  "custom_content": {
+    "tips": "The custom style description is empty, please re-enter the custom description."
+  },
+  "delete_data_tips": "Delete picture",
+  "delete_error": "Delete failed",
+  "delete_success": "Delete successfully",
+  "delete_text": "Delete picture",
+  "drag_image": "Please upload a selfie",
+  "empty_text": "No generated records",
+  "face_image_tips": "Please upload a photo",
+  "generate": {
+    "error": "Build failed",
+    "loading": "Generating...",
+    "success": "Photo generation completed"
+  },
+  "image_download_error": "Failed to download image",
+  "isUploadLoading": "Uploading",
+  "presetStyle": {
+    "clay": "Clay",
+    "clown": "Clown",
+    "comic_style": "Comic Style",
+    "custom": "Custom",
+    "cyberpunk": "Cyberpunk",
+    "elf": "Elf",
+    "impressionism": "Impressionism",
+    "line_art_style": "Line Art Style",
+    "low_poly_style": "Low Poly Style",
+    "robot": "Robot",
+    "vampire": "Vampire",
+    "watercolor": "Watercolor",
+    "zombie": "Zombie"
+  },
+  "size": "Size",
+  "styleDialog": {
+    "choose_style": "Choose style",
+    "custom_input_placeholder": "Please enter content...",
+    "submit": "Confirm",
+    "tab_custom": "Customize",
+    "tab_custom_tips": "Custom style description",
+    "tab_preset": "Default"
+  },
+  "title": "AI Avatar Maker",
+  "upload_error": "Image upload failed"
+}

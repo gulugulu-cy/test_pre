@@ -1,0 +1,55 @@
+{
+  "but_make": "生成を開始する",
+  "cancel": "キャンセル",
+  "characterType": {
+    "children": "子供",
+    "man": "男性",
+    "tips": "文字タイプ",
+    "woman": "女性"
+  },
+  "click_image": "顔が 1 つだけあることを確認してください",
+  "continue": "もちろん",
+  "custom_content": {
+    "tips": "カスタム スタイルの説明が空です。カスタム説明を再入力してください。"
+  },
+  "delete_data_tips": "画像の削除",
+  "delete_error": "削除に失敗しました",
+  "delete_success": "正常に削除されました",
+  "delete_text": "画像の削除",
+  "drag_image": "自撮り写真をアップロードしてください",
+  "empty_text": "生成されたレコードはありません",
+  "face_image_tips": "写真をアップロードしてください",
+  "generate": {
+    "error": "ビルドに失敗しました",
+    "loading": "生成中...",
+    "success": "写真の生成が完了しました"
+  },
+  "image_download_error": "画像のダウンロードに失敗しました",
+  "isUploadLoading": "アップロード中",
+  "presetStyle": {
+    "clay": "クレイ",
+    "clown": "ピエロ",
+    "comic_style": "漫画スタイル",
+    "custom": "カスタマイズ",
+    "cyberpunk": "サイバーパンク",
+    "elf": "エルフ",
+    "impressionism": "印象派",
+    "line_art_style": "ラインアートスタイル",
+    "low_poly_style": "ローポリスタイル",
+    "robot": "ロボット",
+    "vampire": "バンパイア",
+    "watercolor": "水彩画",
+    "zombie": "ゾンビ"
+  },
+  "size": "サイズ",
+  "styleDialog": {
+    "choose_style": "スタイルを選択してください",
+    "custom_input_placeholder": "内容を入力してください...",
+    "submit": "確認する",
+    "tab_custom": "カスタマイズ",
+    "tab_custom_tips": "カスタムスタイルの説明",
+    "tab_preset": "デフォルト"
+  },
+  "title": "AIアバター作成",
+  "upload_error": "画像のアップロードに失敗しました"
+}
